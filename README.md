@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Pellegrino</h1>
 <h3 align="center">A Computer Science Student from Utica, NY</h3>
 
-- 🔭 I’m currently working on [a Flutter Blackjack Game](https://github.com/danpellegrino/blackjackapp)
+- 🔭 I’m currently working on a [Flutter Blackjack Game](https://github.com/danpellegrino/blackjackapp)
 
 - 🌱 I’m currently learning **Dart, React Native, and Docker**
 
