@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dart, React Native, and Docker**
 
-- 👨‍💻 All of my projects are available at [danieljpellegrino.com](danieljpellegrino.com)
+- 👨‍💻 All of my projects are available at [danieljpellegrino.com](https://danieljpellegrino.com)
 
 - 📫 How to reach me: **info@danieljpellegrino.com**
 
