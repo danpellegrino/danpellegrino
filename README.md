@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [danieljpellegrino.com](danieljpellegrino.com)
 
-- 📫 How to reach me **info@danieljpellegrino.com**
+- 📫 How to reach me: **info@danieljpellegrino.com**
 
 - 📄 Know about my experiences, here's my [resume](https://docs.google.com/document/d/174fR_wtQnZDgPQ6Ea7JJOQfMnMT-c0UrGcOwdlelVKA/export?format=pdf)
 
