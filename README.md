@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **info@danieljpellegrino.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/174fR_wtQnZDgPQ6Ea7JJOQfMnMT-c0UrGcOwdlelVKA/export?format=pdf](https://docs.google.com/document/d/174fR_wtQnZDgPQ6Ea7JJOQfMnMT-c0UrGcOwdlelVKA/export?format=pdf)
+- 📄 Know about my experiences, here's my [resume](https://docs.google.com/document/d/174fR_wtQnZDgPQ6Ea7JJOQfMnMT-c0UrGcOwdlelVKA/export?format=pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
