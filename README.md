@@ -1,3 +1,5 @@
+[![MasterHead](https://raw.githubusercontent.com/danpellegrino/danpellegrino/main/waterfall.gif)](danieljpellegrino.com)
+
 <h1 align="center">Hi 👋, I'm Daniel Pellegrino</h1>
 <h3 align="center">A Computer Science Student from Utica, NY</h3>
 
