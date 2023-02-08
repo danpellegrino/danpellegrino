@@ -1,4 +1,6 @@
-[![MasterHead](https://raw.githubusercontent.com/danpellegrino/danpellegrino/main/waterfall.gif)](https://danieljpellegrino.com)
+<p align="center">
+  [![MasterHead](https://raw.githubusercontent.com/danpellegrino/danpellegrino/main/waterfall.gif)](https://danieljpellegrino.com)
+ </p>
 
 <h1 align="center">Hi 👋, I'm Daniel Pellegrino</h1>
 <h3 align="center">A Computer Science Student from Utica, NY</h3>
