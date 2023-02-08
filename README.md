@@ -1,5 +1,5 @@
 <p align="center">
-  [![MasterHead](https://raw.githubusercontent.com/danpellegrino/danpellegrino/main/waterfall.gif)](https://danieljpellegrino.com)
+  <img src="https://raw.githubusercontent.com/danpellegrino/danpellegrino/main/waterfall.gif"/>
  </p>
 
 <h1 align="center">Hi 👋, I'm Daniel Pellegrino</h1>
